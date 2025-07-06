@@ -30,5 +30,7 @@ GUI-режим (графический интерфейс) <br>
 <img src="screens/sc1.png">
 Для поиска необходимо выбрать DHCP-сервер
 <img src="screens/sc2.png">
-Нажать кнопку SEARCH
+Нажать кнопку "SEARCH"
 <img src="screens/sc3.png">
+Также можно произвести поиск по конкретному VLAN, выбрав его из выпадающего списка.
+<img src="screens/sc4.png">
