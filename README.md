@@ -30,3 +30,5 @@ GUI-режим (графический интерфейс) <br>
 <img src="screens/sc1.png">
 Для поиска необходимо выбрать DHCP-сервер
 <img src="screens/sc2.png">
+Нажать кнопку SEARCH
+<img src="screens/sc3.png">
