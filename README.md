@@ -46,3 +46,8 @@ GUI-режим (графический интерфейс) <br>
 
 <img src="screens/sc5.png">
 
+Также можно отобразить все зарезервированные IP-адреса, нажав на кнопку "RESERVED"
+
+<img src="screens/sc7.png">
+<img src="screens/sc8.png">
+
