@@ -1,0 +1,8 @@
+"IPAddress","ScopeId","AddressState","ClientId","ClientType","Description","DnsRegistration","DnsRR","HostName","LeaseExpiryTime","NapCapable","NapStatus","PolicyName","ProbationEnds","ServerIP","PSComputerName"
+"192.168.0.1","192.168.0.0","Active","00-00-00-00-00-01","Dhcp","Device A","NotApplicable","NoRegistration","device-a","2025-07-01 12:00:00","False","FullAccess",,,,
+"192.168.0.2","192.168.0.0","Active","00-00-00-00-00-02","Dhcp","Device B","NotApplicable","NoRegistration","device-b","2025-07-01 12:00:00","False","FullAccess",,,,
+"192.168.0.3","192.168.0.0","ActiveReservation","00-00-00-00-00-03","Dhcp","Printer 1","NotApplicable","NoRegistration","printer-1",,,,"192.168.0.254",
+"192.168.0.4","192.168.0.0","Active","00-00-00-00-00-04","Dhcp","Smartphone","NotApplicable","NoRegistration","phone-1","2025-07-01 12:00:00","False","FullAccess",,,,
+"192.168.0.5","192.168.0.0","Active","00-00-00-00-00-05","Dhcp","Tablet","NotApplicable","NoRegistration","tablet-1","2025-07-01 12:00:00","False","FullAccess",,,,
+"192.168.0.6","192.168.0.0","Active","00-00-00-00-00-06","Dhcp","Notebook","NotApplicable","NoRegistration","notebook-1","2025-07-01 12:00:00","False","FullAccess",,,,
+"192.168.0.7","192.168.0.0","Active","00-00-00-00-00-07","Dhcp","Workstation","NotApplicable","NoRegistration","workstation-1","2025-07-01 12:00:00","False","FullAccess",,,,
