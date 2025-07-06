@@ -51,3 +51,12 @@ GUI-режим (графический интерфейс) <br>
 <img src="screens/sc7.png">
 <img src="screens/sc8.png">
 
+## Скриншоты (Командная строка)
+
+Выполнение в командной строке 
+
+<img src="screens/sc9.png">
+
+Отчет на почту 
+
+<img src="screens/sc10.png">
